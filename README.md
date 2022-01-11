@@ -10,4 +10,4 @@ Resuminho sobre mim.
 - 🏁🏎️ LOUCO APAIXONADO POR QUAISQUER CARROS E CORRIDAS!!!!!! 🚙🚗🚘
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={gabrieldeori}&theme=blue-green
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={gabrieldeori}&theme=blue-green)
