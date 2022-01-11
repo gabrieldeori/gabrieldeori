@@ -1,11 +1,11 @@
 ### Hi there 
 
 # 👋 Oi, muito prazer, Gabriel Deori aqui
-Sou um dev fullstack em constante aprendizado no momento estou buscando experiência fazendo pequenos projetos no mercado, porém pretendo me tornar sênior gerindo e entendendo as necessidades do projeto, como se eu fosse uma espécie de engenheiro ou arquiteto projetando uma casa, medindo recursos, tempo, materiais, mão de obra necessárias.
+Sou um dev fullstack em constante aprendizado no momento estou buscando experiência fazendo pequenos projetos no mercado, porém pretendo me tornar sênior gerindo e entendendo as necessidades do projeto, como se eu fosse uma espécie de engenheiro ou arquiteto projetando uma casa, medindo recursos, tempo, materiais, mão de obra necessárias, prevendo problemas, pensando em boas práticas e no final entregando um documento de design que contenha tudo isso condensado de forma inteligente.
 
-Resuminho.
+Resuminho sobre mim.
 - Dev Fullstack, amo os dois ambientes!
-- 🔭 Atualmente trabalhando no Back-End do projeto Sales Report.
+- 🔭 Atualmente trabalhando em um projeto que não posso revelar detalhes, por enquanto. 🥲
 - 🌱 Aprendendo sobre Sockets.io
 - 🏁🏎️ LOUCO APAIXONADO POR QUAISQUER CARROS E CORRIDAS!!!!!! 🚙🚗🚘
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
