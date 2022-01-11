@@ -10,4 +10,4 @@ Resuminho sobre mim.
 - 🏁🏎️ LOUCO APAIXONADO POR QUAISQUER CARROS E CORRIDAS!!!!!! 🚙🚗🚘
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldeori&show_icons=true&bg_color=#0d1117)](https://github.com/gabrieldeori)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldeori&show_icons=true&bg_color=0d1117)](https://github.com/gabrieldeori)
