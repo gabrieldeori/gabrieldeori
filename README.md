@@ -9,3 +9,5 @@ Resuminho sobre mim.
 - 🌱 Aprendendo sobre Sockets.io
 - 🏁🏎️ LOUCO APAIXONADO POR QUAISQUER CARROS E CORRIDAS!!!!!! 🚙🚗🚘
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={gabrieldeori}&theme=blue-green
