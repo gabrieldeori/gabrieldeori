@@ -6,7 +6,7 @@ Sou um dev fullstack em constante aprendizado no momento estou buscando experiê
 Resuminho sobre mim.
 - Dev Fullstack, amo os dois ambientes!
 - 🔭 Atualmente trabalhando em um projeto que não posso revelar detalhes, por enquanto. 🥲
-- 🌱 Aprendendo sobre Sockets.io
+- 🐍 Aprendendo Python
 - 🏁🏎️ LOUCO APAIXONADO POR QUAISQUER CARROS E CORRIDAS!!!!!! 🚙🚗🚘
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 
