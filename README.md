@@ -7,9 +7,8 @@ Resuminho sobre mim.
 - Dev Fullstack, amo os dois ambientes!
 - 🔭 Atualmente trabalhando em uma api para o programa de TV Chaves
 - 🐍 Aprendendo Python
-- 🏁🏎️ LOUCO APAIXONADO POR QUAISQUER CARROS E CORRIDAS!!!!!! 🚙🚗🚘
+- Apaixonado por automobilismo! 🏁🏎️
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
-
 
 [![Estatísticas de gabrieldeori](https://github-readme-stats.vercel.app/api?username=gabrieldeori&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&icon_color=e5e5e5)](https://github.com/gabrieldeori)
 
