@@ -6,7 +6,7 @@ Sou um dev fullstack em constante aprendizado no momento estou buscando experiê
 Resuminho sobre mim.
 - Dev Fullstack, amo os dois ambientes!
 - 🔭 Atualmente trabalhando em uma api para o programa de TV Chaves
-- 🐍 Aprendendo Python
+- 🐍 Aprendendo C#
 - Apaixonado por automobilismo! 🏁🏎️
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 
