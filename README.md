@@ -9,8 +9,6 @@ Resuminho sobre mim.
 - Apaixonado por automobilismo! 🏁🏎️
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 
-[![Estatísticas de gabrieldeori](https://github-readme-stats.vercel.app/api?username=gabrieldeori&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&icon_color=e5e5e5)](https://github.com/gabrieldeori)
-
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldeori&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=58a6ff&icon_color=e5e5e5)](https://github.com/gabrieldeori)
 
 ---
