@@ -5,7 +5,7 @@ Sou um dev fullstack em constante aprendizado no momento estou buscando experiê
 
 Resuminho sobre mim.
 - Dev Fullstack, amo os dois ambientes!
-- Aprendendo Vue.js, Laravel e PhP.
+- Aprofundando em SQL e Python e aprendendo estatística.
 - Apaixonado por automobilismo! 🏁🏎️
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 
