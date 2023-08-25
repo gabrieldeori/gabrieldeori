@@ -1,7 +1,7 @@
 ### Hi there 
 
 # 👋 Oi, muito prazer, Gabriel Deori aqui
-Sou um dev fullstack em constante aprendizado no momento estou focando em projetos profissionais e pessoais
+Sou um dev fullstack em constante aprendizado no momento estou focando em projetos profissionais e pessoais.
 
 Quem sou...
 - Dev Fullstack!
