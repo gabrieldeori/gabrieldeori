@@ -3,13 +3,15 @@
 # 👋 Oi, muito prazer, Gabriel Deori aqui
 Sou um dev fullstack em constante aprendizado no momento estou buscando experiência e aprendendo novas tecnologias
 
-Resuminho sobre mim.
+Quem sou...
 - Dev Fullstack!
-- Trabalhando na SkillLabs
-- Estudando no Santander Bootcamp 2023 - Ciência de Dados com Python
+- Trabalho na SkillLabs
+- Estudo Ciência de Dados com Python - Santander Bootcamp 2023
 - Apaixonado por automobilismo! 🏁🏎️
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 ---
+
+![Typeeeeeee](https://c.tenor.com/uW-mINF9BmwAAAAC/tenor.gif)
 
 # Tecnologias e ferramentas
 ## Sou fullstack mas o que sei de frontend?
@@ -37,6 +39,7 @@ Resuminho sobre mim.
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ## Banco de dados?
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
