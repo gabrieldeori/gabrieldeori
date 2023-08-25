@@ -4,8 +4,9 @@
 Sou um dev fullstack em constante aprendizado no momento estou buscando experiência e aprendendo novas tecnologias
 
 Resuminho sobre mim.
-- Dev Fullstack, amo os dois ambientes!
-- Aprofundando em SQL e Python e aprendendo estatística.
+- Dev Fullstack!
+- Trabalhando na SkillLabs
+- Estudando no Santander Bootcamp 2023 - Ciência de Dados com Python
 - Apaixonado por automobilismo! 🏁🏎️
 - 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
 ---
