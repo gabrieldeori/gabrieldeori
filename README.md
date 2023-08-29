@@ -1,65 +1,40 @@
-  <div
-    style="
-      border: 2px solid red;
-      border-radius: 14px;
-      transform: rotate(90deg)
-      transition: transform 2s;
-    "
-    class="progress-bar"
-  >
-    <div
-      style="
-        width: 75%;
-          color: white; 
-          background: red;
-          overflow: hidden;
-          white-space: nowrap; 
-          padding: 10px 20px;
-          border-radius: 10px;
-          transform: rotate(90deg)
-          transition: transform 2s;
-      };
-        "
-    >Upload is 75% complete</div>
-  </div>
-
 <center>
+
   <h1 class="headingtest"> Gabriel de Oliveira Ribeiro - Desenvolvedor Fullstack </h1>
+
+  |||
+  |:-:|:-:|
+  |<img width=175 src="./img/deori-pixelavatar.png">|<p>Olá, prazer em ter você aqui, pode me chamar de Deori,</p> <p>Atualmente sou <b>desenvolvedor</b> na SkillLabs e estou estudando **Ciência de Dados com Python**, mas juro que não é só isso, vem me conhecer mais...</p>|
+
 </center>
-
-<div style="
-background-color: #e5e5f7;
-opacity: 0.8;
-background-image:  linear-gradient(135deg, #444cf7 25%, transparent 25%), linear-gradient(225deg, #444cf7 25%, transparent 25%), linear-gradient(45deg, #444cf7 25%, transparent 25%), linear-gradient(315deg, #444cf7 25%, #e5e5f7 25%);
-background-position:  10px 0, 10px 0, 0 0, 0 0;
-background-size: 200px 1216px;
-background-repeat: repeat;
-">
-
-<pre>
-  Olá, prazer em ter você aqui, pode me chamar de Deori,
-  Atualmente sou desenvolvedor na SkillLabs e estou estudando Ciência de Dados com Python, venha me conhecer melhor através dessa página
-</pre>
-
-- <a href=#aa>Profissional</a>
-  - <a href=#aa>Tecnologias</a>
-    - <a href=#aa>Atual</a>
-    - <a href=#aa>Aprendendo</a>
-    - <a href=#aa>Sei Hello World</a>
-    - <a href=#aa>Tecnologias</a>
-  - <a href=#aa>Experiências</a>
-  - <a href=#aa>Profissional</a>
-  - <a href=#aa>Profissional</a>
-- <a href=#aa>Profissional</a>
-  - <a href=#aa>Profissional</a>
-  - <a href=#aa>Profissional</a>
-  - <a href=#aa>Profissional</a>
-  - <a href=#aa>Profissional</a>
 
 <center>
-  <h2>Experiências</h2>
-  <h3>Já desenvolvo a mais de dois anos com as seguintes tecnologias:</h3>
+  <h2>Índice</h2>
+
+
+<div style="display: inline-block; text-align: justify">
+
+  - <a href=#>Profissional</a>
+    - <a href=#>Tecnologias</a>
+      - <a href=#>Com o que desenvolvo?</a>
+      - <a href=#>Aprendendo</a>
+    - <a href=#>Experiências</a>
+    - <a href=#>Profissional</a>
+    - <a href=#>Profissional</a>
+  - <a href=#>Profissional</a>
+    - <a href=#>Profissional</a>
+    - <a href=#>Profissional</a>
+    - <a href=#>Profissional</a>
+    - <a href=#>Profissional</a>
+  - <a href=#>Métricas</a>
+
+</div>
+
 </center>
+
+  <h2>Profissional</h2>
+  <h3>Tecnologias</h3>
+
 
 <div style="
 display: grid;
@@ -128,8 +103,6 @@ Quem sou...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrieldeori/)
 ---
 
-![Typeeeeeee](https://c.tenor.com/uW-mINF9BmwAAAAC/tenor.gif)
-
 # Tecnologias e ferramentas
 ## Sou fullstack mas o que sei de frontend?
 
@@ -152,8 +125,13 @@ Quem sou...
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## Cards
+## Gosta de métricas?
 
+<center>
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+
+0![A](https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=F0FF&show_icons=true&icon_color=F0FF&title_color=F0FF&text_color=F0FF)
+</center>
 
 # Veja meus projetos abaixo:
 
