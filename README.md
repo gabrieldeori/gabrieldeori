@@ -1,53 +1,42 @@
-<center>
-
-  <h1 class="headingtest"> Gabriel de Oliveira Ribeiro - Desenvolvedor Fullstack </h1>
+  <h1> Gabriel de Oliveira Ribeiro - Desenvolvedor Fullstack </h1>
 
   |||
   |:-:|:-:|
-  |<img width=175 src="./img/deori-pixelavatar.png">|<p>Olá, prazer em ter você aqui, pode me chamar de Deori,</p> <p>Atualmente sou <b>desenvolvedor</b> na SkillLabs e estou estudando **Ciência de Dados com Python**, mas juro que não é só isso, vem me conhecer mais...</p>|
+  |<img width=175 src="./img/deori-pixelavatar.png">|<p>Olá, prazer em ter você aqui, pode me chamar de Deori,</p> <p>Atualmente sou <b>desenvolvedor</b> na SkillLabs e estudo **Ciência de Dados com Python**, mas juro que não é só isso, vem me conhecer mais...</p>|
 
-</center>
-
-<center>
   <h2>Índice</h2>
 
-
-<div style="display: inline-block; text-align: justify">
-
   - <a href=#>Profissional</a>
-    - <a href=#>Tecnologias</a>
-      - <a href=#>Com o que desenvolvo?</a>
-      - <a href=#>Aprendendo</a>
-    - <a href=#>Experiências</a>
-    - <a href=#>Profissional</a>
-    - <a href=#>Profissional</a>
-  - <a href=#>Profissional</a>
-    - <a href=#>Profissional</a>
-    - <a href=#>Profissional</a>
-    - <a href=#>Profissional</a>
-    - <a href=#>Profissional</a>
-  - <a href=#>Métricas</a>
+  
 
-</div>
-
-</center>
 
   <h2>Profissional</h2>
-  <h3>Tecnologias</h3>
 
+  <h3>Desenvolvimento Web</h3>
+
+  Tenho mais de dois anos de experiência com:
+
+  |||||
+  |:-:|:-:|:-:|:-:|
+  |Mais experiência|<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />|<img alt="Node JS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" /><img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)" /><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)" /><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> | <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)" /><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)" /><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)" /><img alt="Chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+  | <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)" /><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)"/><img alt="MaterialUI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)" /><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)" /> |||
+
+<h3></h3>
+
+|||
+|:-:|:-:|
+|<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">|  |
+
+- <p><a href="https://appskcoders.com.br/">Plataforma de estudo</a></p> 
+- <p><a href="">App de gerenciamento de bares</a></p> 
+- <p><a href="">App de delivery</a></p>
+- <p><a href="">Loja virtual </a></p>
 
 <div style="
 display: grid;
 grid-template-columns: auto auto;
 gap: 0px;
 ">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-
-  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
 <img alt="" src="">
@@ -65,7 +54,7 @@ gap: 0px;
 
 | Front | Back | Testes |
 | :-: | :-: | :-: |
-| <center>  <center> | ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
+| | !
 
   <p>Estudo ciência de dados com Python através de uma bolsa de estudos do Santander</p>
 
@@ -85,7 +74,7 @@ Atualmente desenvolvo com essas tecnologias:
 |a|b|
 |-|-|
 | | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) |
-| ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |  |
+|
 
 ### Hi there 
 
@@ -127,11 +116,10 @@ Quem sou...
 
 ## Gosta de métricas?
 
-<center>
   <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 0![A](https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=F0FF&show_icons=true&icon_color=F0FF&title_color=F0FF&text_color=F0FF)
-</center>
+
 
 # Veja meus projetos abaixo:
 
