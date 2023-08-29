@@ -1,16 +1,6 @@
 ### Hi there 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=f0ff&show_icons=true&icon_color=f0ff&title_color=f0ff&text_color=f0ff"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=0F0F&show_icons=true&icon_color=0F0F&title_color=0F0F&text_color=0F0F"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=0F0F&show_icons=true&icon_color=0F0F&title_color=0F0F&text_color=0F0F" />
-</picture>
+![A](https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=F0FF&show_icons=true&icon_color=F0FF&title_color=F0FF&text_color=F0FF)
 
 # 👋 Oi, muito prazer, Gabriel Deori aqui
 Sou um dev fullstack em constante aprendizado no momento estou focando em projetos profissionais e pessoais.
@@ -20,6 +10,7 @@ Sou um dev fullstack em constante aprendizado no momento estou focando em projet
 | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen) ![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white) ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white) |
 | ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | | |
+|<picture><source srcset="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=F0FF&show_icons=true&icon_color=F0FF&title_color=F0FF&text_color=F0FF" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/><source srcset="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=0F0F&show_icons=true&icon_color=0F0F&title_color=0F0F&text_color=0F0F" media="(prefers-color-scheme: dark)"/><img src="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=0F0F&show_icons=true&icon_color=0F0F&title_color=0F0F&text_color=0F0F" /></picture>|  ||
 
 Quem sou...
 - Dev Fullstack!
