@@ -1,5 +1,17 @@
 ### Hi there 
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=f0ff&show_icons=true&icon_color=f0ff&title_color=f0ff&text_color=f0ff"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=0F0F&show_icons=true&icon_color=0F0F&title_color=0F0F&text_color=0F0F"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=0F0F&show_icons=true&icon_color=0F0F&title_color=0F0F&text_color=0F0F" />
+</picture>
+
 # 👋 Oi, muito prazer, Gabriel Deori aqui
 Sou um dev fullstack em constante aprendizado no momento estou focando em projetos profissionais e pessoais.
 
