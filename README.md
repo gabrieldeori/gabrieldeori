@@ -8,7 +8,8 @@ Quem sou...
 - Trabalho na SkillLabs
 - Estudo Ciência de Dados com Python - Santander Bootcamp 2023
 - Apaixonado por automobilismo! 🏁🏎️
-- 📫 Meu linkedin: https://www.linkedin.com/in/gabrieldeori/
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gabrieldeori/)
 ---
 
 ![Typeeeeeee](https://c.tenor.com/uW-mINF9BmwAAAAC/tenor.gif)
@@ -50,6 +51,9 @@ Quem sou...
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white)
 
+## Ciência de Dados
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
 ## Design?
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
@@ -61,8 +65,19 @@ Aqui são tecnologias que aprendi mas nunca trabalhei em projetos comerciais. Eu
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![LUA](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
+<!-- Seção de cards
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrieldeori&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrieldeori&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEUUSERNAME&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrieldeori&theme=bear&background=0000&border=fff&dates=FFF)](https://git.io/streak-stats)
+-->
+
+---
 
 # Veja meus projetos abaixo:
