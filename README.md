@@ -1,5 +1,26 @@
-  <div class="progress-bar">
-    <div style="width: 75%">Upload is 75% complete</div>
+  <div
+    style="
+      border: 2px solid red;
+      border-radius: 14px;
+      transform: rotate(90deg)
+      transition: transform 2s;
+    "
+    class="progress-bar"
+  >
+    <div
+      style="
+        width: 75%;
+          color: white; 
+          background: red;
+          overflow: hidden;
+          white-space: nowrap; 
+          padding: 10px 20px;
+          border-radius: 10px;
+          transform: rotate(90deg)
+          transition: transform 2s;
+      };
+        "
+    >Upload is 75% complete</div>
   </div>
 
 <center>
