@@ -1,6 +1,4 @@
-|||
-|:-:|:-:|
-|<h1> Gabriel de Oliveira Ribeiro - Desenvolvedor Fullstack </h1>|
+<h1> Gabriel de Oliveira Ribeiro - Desenvolvedor Fullstack </h1>
 
 |||
 |:-:|:-:|
