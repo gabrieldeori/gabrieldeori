@@ -23,8 +23,7 @@
 ---
 - <h3><a href="#id_personal_info">3. Pessoal</a></h3>
 
-  - <a href="#id_formation">3.1 Formação</a>
-  - <a href="#id_trajectory">3.2 Trajetória</a>
+  - <a href="#id_trajectory">3.1 Trajetória</a>
 ---
 
 <h2 id="id_professional">1. Profissional</h2>
@@ -115,7 +114,7 @@ Mas quem não gosta de métricas não é mesmo?
 
 <h2 id="id_personal_info">3. Pessoal</h2>
 
-<h3 href="id_trajectory">3.2 Trajetória</h3>
+<h3 href="id_trajectory">3.1 Trajetória</h3>
 
 Sou Mineirin, nasci em 95 nascido em Belo Horizonte "por acidente" mas Barbacena é onde passei quase toda minha vida e resido atualmente.
 
