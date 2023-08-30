@@ -114,7 +114,7 @@ Mas quem não gosta de métricas não é mesmo?
 
 <h2 id="id_personal_info">3. Pessoal</h2>
 
-<h3 href="id_trajectory">3.1 Trajetória</h3>
+<h3 id="id_trajectory">3.1 Trajetória</h3>
 
 Sou Mineirin, nasci em 95 nascido em Belo Horizonte "por acidente" mas Barbacena é onde passei quase toda minha vida e resido atualmente.
 
