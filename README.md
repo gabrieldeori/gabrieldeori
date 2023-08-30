@@ -87,7 +87,7 @@ Esses sao alguns dos conceitos que pude vivenciar que giram em torno da vida do 
 |</p><a href="./docs/Santander-Bootcamp-2023-Ciencia-de-Dados-com-Python.pdf">**Ciência de Dados com Python**</a></p></p><a href="./docs/Santander-Bootcamp-2023-Ciencia-de-Dados-com-Python.pdf">Conheça os conteúdos</a></p>|<p><img alt="Santander" width=125 src=https://logos-world.net/wp-content/uploads/2020/11/Santander-Logo.png></p><p><img width=125 alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></p><p><p><img width=125 alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)" /></p><img width=125 alt="Plataforma DIO" src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg"></p>|
 | Prompt Engineering |<img width=125 alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)" />|
 
-<h3 id="#id_other_tecnologies">2.3. Outras Tecnologias</h3>
+<h3 id="id_other_tecnologies">2.3. Outras Tecnologias</h3>
 
 Aqui uma miscelânea de tecnologias que conheço e programei, porém provavelmente não tenho projeto salvo.
 
