@@ -108,9 +108,9 @@ Mas quem não gosta de métricas não é mesmo?
 
 | GitHub | Streaks |
 |:-:|:-:|
-|<img alt="Estatísticas do Github" src="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=F0FF&show_icons=true&icon_color=F0FF&title_color=F0FF&text_color=F0FF"/>| <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=gabrieldeori&background=0000&border=F0FF&theme=synthwave&ring=F0FF&fire=F0FF&currStreakNum=F0FF&sideNums=F0FF&currStreakLabel=F0FF&sideLabels=F0FF&dates=F0FF)](https://git.io/streak-stats" /> |
+|<img alt="Estatísticas do Github" src="https://github-readme-stats.vercel.app/api?username=gabrieldeori&bg_color=0000&border_color=F0FF&show_icons=true&icon_color=F0FF&title_color=F0FF&text_color=F0FF"/>| <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=gabrieldeori&background=0000&border=F0FF&theme=synthwave&ring=F0FF&fire=F0FF&currStreakNum=F0FF&sideNums=F0FF&currStreakLabel=F0FF&sideLabels=F0FF&dates=F0FF" /> |
 
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+<img src="./img/pixel-jeff-matrix-s.gif">
 
 <h2 id="id_personal_info">3. Pessoal</h2>
 
