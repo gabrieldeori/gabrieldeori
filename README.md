@@ -40,7 +40,7 @@ Em todos projetos que atuei sempre aprendi uma habilidade nova, um método novo,
 - Planejamento a longo prazo
 - Redigir boa documentação
 - Fazer escolhas difíceis de forma inteligente
-  - Precisa fazer mal feito ou algo pode não ser feito?
+  - O que pode ser feito agora, depois ou não ser feito?
   - Com prazos apertados, aumentar a equipe gastando mais ou tentar estender o prazo?
 - Resolução de conflitos
   - Conversar com o cliente para aumentar o prazo ou pedir a equipe horas extras?
@@ -58,8 +58,14 @@ Em todos projetos que atuei sempre aprendi uma habilidade nova, um método novo,
   - Comunicação
   - Code review
   - União para resolução de problemas
+- Segurança
+  - Melhores práticas de segurança
+  - Discrição como programador
+  - Cuidado ao fazer alterações
 
 Esses são alguns dos conceitos que pude vivenciar que giram em torno da vida do desenvolvedor, e, perceba que não citei nenhuma tecnologia para contar um pouco da minha carreira, é necessário buscar essas experiências para se tornar um profissional melhor, por isso a vivência é tão importante nesse processo.
+
+Para concluir posso dizer que enxergo a programação como a medicina, engenharia civil e engenharia aeroespacial por exemplo, pois as aplicações lidam em primeiro lugar com a vida das pessoas, com suas profissões, com suas carreiras, finanças, privacidade, visto isso entende-se que é necessário realizar um trabalho bem feito para garantir a segurança na vida das pessoas.
 
 ---
 
