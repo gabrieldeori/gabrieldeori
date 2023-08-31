@@ -59,7 +59,7 @@ Em todos projetos que atuei sempre aprendi uma habilidade nova, um método novo,
   - Code review
   - União para resolução de problemas
 
-Esses sao alguns dos conceitos que pude vivenciar que giram em torno da vida do desenvolvedor, e, perceba que não citei nenhuma tecnologia para contar um pouco da minha carreira, é necessário buscar essas experiências para se tornar um profissional melhor e desapegado das tecnologias em si, por isso a vivência e experiência são tão importantes nesse processo.
+Esses são alguns dos conceitos que pude vivenciar que giram em torno da vida do desenvolvedor, e, perceba que não citei nenhuma tecnologia para contar um pouco da minha carreira, é necessário buscar essas experiências para se tornar um profissional melhor, por isso a vivência é tão importante nesse processo.
 
 ---
 
@@ -102,7 +102,7 @@ Outras ferramentas utilizadas:
 
 <h3 id="id_metrics">2.4. Métricas</h3>
 
-Métricas de código não dizem muito sobre o programador, cada período da vida tem seu contexto, e o programador é feito muito mais do que apenas código como eu disse em <a href="#id_programmer_experience">minha experiência</a>.
+Métricas de código não dizem muito sobre o programador, cada período da vida tem seu contexto, e o programador é feito de muito mais do que apenas código, como eu disse em <a href="#id_programmer_experience">minha experiência</a>.
 
 Mas quem não gosta de métricas não é mesmo?
 
@@ -116,20 +116,18 @@ Mas quem não gosta de métricas não é mesmo?
 
 <h3 id="id_trajectory">3.1 Trajetória</h3>
 
-Sou Mineirin, nasci em 95 nascido em Belo Horizonte "por acidente" mas Barbacena é onde passei quase toda minha vida e resido atualmente.
+Sou Mineirin, nasci em 1995 na cidade de Belo Horizonte, "um mero acidente" pois Barbacena é onde passei quase toda minha vida e resido atualmente.
 
-Conhecido como destruidor na família desde bebê, mas na verdade era só um má direcionamento no ímpeto pelo "saber como funciona" e isso é de família, quando ganhei um cubo mágico me interessei muito por como aquelas cores trocavam de lugar. Desmontei, depois de entender comecei a criar meus próprios algoritmos de como colocar as cores que eu queria nos lugares que eu queria sem alterar as outras cores, pesquisei e aprendi com outras pessoas, nunca fui muito rápido, mas me interessou sempre ser eficaz, fazer com menos passos, ou com menos trocas, rápido não.
+Conhecido como destruidor na família desde bebê, mas na verdade era só um má direcionamento no ímpeto pelo "saber como funciona", quando ganhei um cubo mágico me interessei muito por como aquelas cores trocavam de lugar. Desmontei, depois de entender comecei a criar meus próprios algoritmos de como colocar as cores que eu queria nos lugares que eu queria sem alterar as outras cores, pesquisei e aprendi com outras pessoas, nunca fui muito rápido, mas me interessou sempre ser eficaz, fazer com menos passos, ou com menos trocas.
 
 Acho que por volta de 2003 a 2004 meu tio trouxe um computador pra casa, onde joguei pela primeira vez Age Of Empires. Meu tio me mostrou como se dava manutenção em um computador e me apresentou, html, css, pascal, PHP, e foi ali que surgiu o "tino" para programação.
 
-Depois disso sempre procurei aprender, como funcionava tudo, como construir sistemas complexos que antes eu tinha só curiosidade para saber como funciona. Engine001 e RPG Maker foram o start para a lógica computacional. Depois disso `C` na faculdade, `C++`, `C#`, Unity... e assim até me tornar um desenvolvedor.
+Depois disso sempre procurei aprender, como funcionava tudo, como construir sistemas complexos que antes eu tinha só curiosidade de saber como funciona. Os games a Engine001 e o RPG Maker foram o start para a lógica computacional. Depois disso `C` na faculdade, `C++`, `C#`, Unity... e assim até me tornar um desenvolvedor profissional.
 
 Na teoria eu tenho 2 anos de experiência na programação (Profissional, Fullstack), mas na prática eu tenho uns quase 20 anos apredendo, programando, fazendo projetos pessoais, enfim, uma pena apenas que a cultura do git/GitHub pra salvar meu progresso só me atingiu nesses últimos dois anos.
 
-Essa cultura me atingiu só nos últimos 2 anos pois eu me formei Desenvolvedor Web FullStack na <a href="https://www.betrybe.com/">Trybe</a>, que foi um local onde aprendi a trabalhar em equipe para desenvolver um software, aprendi boas práticas, e muitas ferramentas para facilitar a vida do desenvolvedor.
+Essa cultura me atingiu agora pois eu me formei Desenvolvedor Web FullStack na <a href="https://www.betrybe.com/">Trybe</a>, que foi um local onde aprendi a trabalhar em equipe para desenvolver softwares, aprendi boas práticas, e muitas ferramentas para facilitar a vida do desenvolvedor. Lá desenvolvi vários projetos em equipe que me proporcionaram uma consciência muito grande da realidade, da dificuldade ao desenvolver, resolver conflitos, reestruturar projetos e equipes após adversidades, comunicação efetiva, dar e receber ajuda, entre outras.
 
-Lá desenvolvi vários projetos em equipe que me proporcionou uma consciência muito grande da realidade, da dificuldade ao desenvolver, resolver conflitos, reestruturar projetos e equipes após adversidades, comunicação efetiva, dar e receber ajuda, entre outras.
+Eu também cursei faculdade de Ciência da Computação, onde aprendi `C` a um tempo atrás, infelizmente por contextos da vida tive que parar e trancar. Mas agora, com meus próprios meios vou retomá-la em breve para obter meu diploma, <a href="https://ccomp.ufsj.edu.br/"></a>, aí vou eu.
 
-Eu também cursei faculdade de Ciência da Computação, onde aprendi `C` a um tempo atrás, infelizmente por contextos da vida tive que parar e trancar. Mas agora, com meus próprios meios vou retomá-la em breve para obter meu diploma.
-
-> Desde que formei, foquei em realizar trabalhos de freelance, aprender com pessoas próximas e ter o máximo de experiência que eu poderia ter.
+> Desde que formei, foquei em realizar trabalhos de freelance, aprender com pessoas próximas e ter o máximo de experiência que eu poderia ter. Hoje viso estabilidade e desenvolvimento constante, desejo me tornar uma referência técnica relevante na área, principalmente no que tange a área de dados, mesmo sendo fullstack, sempre assumi mais responsabilidades no front com o `Redux`, `contextAPI` e fluxo dos dados da aplicação.
